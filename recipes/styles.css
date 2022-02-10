@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(220, 223, 241);
+    font-size: 25px;
+    margin: 50px 0px 100px 20px;
+}
+
+img{
+    height: 400px;
+    width: 600px;
+}
+p,
+ol,
+ul {
+    width: 600px;
+}
+h1,
+h2,
+h3,
+.section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn {
+    font-size: 20px;
+    width: 120px;
+    height: 30px;
+    display block-size: ;
+    text text-decoration: none;
+    color: black;
+    background-attachment: fixed;
+}
